@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Illustration of window seats looking out to trees">
+<rect width="600" height="400" fill="#E6D8BE"/>
+<rect x="60" y="50" width="480" height="210" rx="8" fill="#BFD8D2"/><path d="M220 50v210M380 50v210" stroke="#F2EFE8" stroke-width="10"/>
+<circle cx="130" cy="200" r="46" fill="#6F9A78"/><circle cx="300" cy="210" r="56" fill="#5C8A6A"/><circle cx="470" cy="195" r="48" fill="#6F9A78"/>
+<rect x="40" y="260" width="520" height="24" fill="#22332D"/>
+<g fill="#182420"><rect x="120" y="284" width="8" height="90"/><rect x="290" y="284" width="8" height="90"/><rect x="460" y="284" width="8" height="90"/></g>
+<g fill="#E9B64B"><rect x="100" y="244" width="48" height="16" rx="8"/><rect x="270" y="244" width="48" height="16" rx="8"/><rect x="440" y="244" width="48" height="16" rx="8"/></g></svg>

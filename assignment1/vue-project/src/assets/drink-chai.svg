@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Hot spiced chai">
+<rect width="400" height="300" fill="#22332D"/>
+<circle cx="200" cy="150" r="118" fill="#182420"/>
+<path d="M140 70h120l-10 170c-1 14-10 22-24 22h-52c-14 0-23-8-24-22z" fill="#F2EFE8" opacity=".18"/>
+<path d="M146 112h108l-8 126c-1 12-9 18-20 18h-52c-11 0-19-6-20-18z" fill="#A8612F"/>
+<path d="M146 112h108l-2 24h-104z" fill="#E7CDA6"/>
+<path d="M262 96l44-62" stroke="#F2EFE8" stroke-width="7" stroke-linecap="round"/>
+<path d="M140 70h120l-10 170c-1 14-10 22-24 22h-52c-14 0-23-8-24-22z" fill="none" stroke="#F2EFE8" stroke-width="5" stroke-linejoin="round"/>
+</svg>
